@@ -1,0 +1,7 @@
+{
+  "agent": {
+    "agent_type": "Bosch",
+    "t_max": 65536,
+    "n_episodes": 16
+  }
+}
